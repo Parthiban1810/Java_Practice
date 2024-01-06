@@ -33,7 +33,7 @@ public class TwoSum {
 
         }
 
-        return ans;
+        return ans
 
     }
 }
